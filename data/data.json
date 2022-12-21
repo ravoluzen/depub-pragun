@@ -1,0 +1,41 @@
+{
+    "steps": {
+        "stepOne": {
+            "title": "Step 1: Chapter Details"
+            
+        },
+        "stepTwo": {
+
+        },
+        "stepThree": {
+
+        }
+    },
+    "publications": {
+        "publication": {
+            "title":"",
+            "issueNumber": "",
+            "content": "",
+            "question": {
+                "questionTitle": "",
+                "optionOne": "",
+                "optionTwo": ""
+            },
+            "stake": ""
+        }
+    },
+    "footer": [
+        {
+            "name":"Aabhash Pansari",
+            "rollNo": "11014802719"
+        },
+        {
+            "name":"Pragun Dua",
+            "rollNo": "11014802719"
+        },
+        {
+            "name":"Jenice Tomar",
+            "rollNo": "11014802719"
+        }
+    ]
+}
