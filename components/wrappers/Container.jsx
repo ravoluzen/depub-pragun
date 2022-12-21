@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Container = ({children}) => {
+const Container = ({children, className}) => {
   return (
-    <div className="w-screen min-h-screen flex flex-col justify-center items-center">
+    <div className={`w-screen min-h-screen flex flex-col justify-center items-center ${className}`}>
         {children}
     </div>
   )

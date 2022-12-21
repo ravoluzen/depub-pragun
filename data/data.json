@@ -1,7 +1,8 @@
 {
     "steps": {
         "stepOne": {
-            "title": "Step 1: Chapter Details"
+            "title": "Step 1: Chapter Details",
+            "labels":{}
             
         },
         "stepTwo": {
@@ -11,9 +12,10 @@
 
         }
     },
-    "publications": {
-        "publication": {
-            "title":"",
+    "publications": [
+        {
+            "title":"Chapter Title",
+            "releaseDate": "Date Of Release",
             "issueNumber": "",
             "content": "",
             "question": {
@@ -23,7 +25,7 @@
             },
             "stake": ""
         }
-    },
+    ],
     "footer": [
         {
             "name":"Aabhash Pansari",
